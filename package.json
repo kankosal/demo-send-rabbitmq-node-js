@@ -1,0 +1,14 @@
+{
+  "name": "test-send-rabbitmq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "send.js",
+  "scripts": {
+    "test": "node send.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.8.0"
+  }
+}
